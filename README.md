@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Gustyx-Power! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Developers+in+Open+Source +Projects;Android+Tinkerer;Power+User+Explorer;Loves+to+Build+Things;Welcome+to+My+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Android+Tinkerer;Developers+in+Open+Source+Projects;Power+User+Explorer;Loves+to+Build+Things;Welcome+to+My+GitHub!" alt="Typing SVG" />
 </p>
 
 <p align="center">

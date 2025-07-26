@@ -39,7 +39,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustyx-Power&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustyx-Power&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&cache_bust=2" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustyx-Power&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br>

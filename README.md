@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/GustyxPower"><img src="https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram" /></a>
   <img src="https://img.shields.io/badge/OS-Android-green?logo=android" />
-  <img src="https://img.shields.io/badge/Editor-Neovim-blue?logo=neovim" />
+  <img src="https://img.shields.io/badge/Code Editor-Jetbrains-blue?logo=jetbrains" />
   <img src="https://img.shields.io/badge/Language-Kotlin-purple?logo=kotlin" />
   <img src="https://img.shields.io/badge/University-Pelita%20Bangsa%20University-orange" />
 </p>

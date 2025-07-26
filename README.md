@@ -37,7 +37,7 @@
 ---
 
 ### 📊 GitHub Stats
-
+![Update Stats](https://github.com/Gustyx-Power/Gustyx-Power/workflows/Update%20Github%20Stats/badge.svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustyx-Power&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&cache_bust=2" alt="GitHub Stats" />
   <br>

@@ -39,7 +39,7 @@
 ### 📊 GitHub Stats
 ![Update Stats](https://github.com/Gustyx-Power/Gustyx-Power/workflows/Update%20GitHub%20Stats/badge.svg)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustyx-Power&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&cache_bust=3" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustyx-Power&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&cache_bust=1" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustyx-Power&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br>

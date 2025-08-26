@@ -73,6 +73,13 @@
 
 ---
 
+---
+
+## 🏎️ Racing Car Animation
+
+<!--START_ANIMATION-->
+<!--END_ANIMATION-->
+
 ## 📫 Reach Me
 - 🔹 **Telegram:** [@GustyxPower](https://t.me/GustyxPower)  
 - 🔹 **GitHub:** [Gustyx-Power](https://github.com/Gustyx-Power)

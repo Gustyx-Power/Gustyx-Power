@@ -44,7 +44,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustyx-Power&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustyx-Power&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Gustyx-Power&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
@@ -54,13 +54,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gustyx-Power/Gustyx-Power/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
 
 ### 📅 Contribution Activity
 

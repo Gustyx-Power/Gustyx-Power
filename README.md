@@ -28,8 +28,6 @@
 - 🏫 Student at Pelita Bangsa University
 - ⚡ Fun fact: I love late-night coding sessions and CLI tools
 
----
-
 ### 🛠 Tech Stack & Tools
 
 **Languages:**
@@ -59,8 +57,6 @@
 - 💬 Ask me about **Android Development, Kotlin, Linux**
 - 📫 How to reach me: **[@GustyxPower](https://t.me/GustyxPower)**
 
----
-
 ### 📫 Connect With Me
 
 <p align="center">
@@ -71,43 +67,11 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gustyx-Power&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-![Update Stats](https://github.com/Gustyx-Power/Gustyx-Power/workflows/Update%20GitHub%20Stats/badge.svg)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustyx-Power&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Gustyx-Power&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustyx-Power&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gustyx-Power&theme=tokyonight" alt="Productive Time" width="48%" />
-</p>
-
----
-
 ### 📅 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustyx-Power&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
-
-**Development Pattern:**
-- 🕒 Most Active: Late nights (20:00 – 01:00 WIB)
-- 📆 Peak Days: Friday & Saturday
-- 💻 Focus Areas: Feature implementation & bug fixes
-- 🔥 Current Streak: Building daily!
-
----
 
 ### 📈 Recent Activity
 

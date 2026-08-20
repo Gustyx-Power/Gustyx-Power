@@ -17,16 +17,13 @@
 
 ### 👨‍💻 About Me
 
-**Gusti Aditya Muzaky** | Android Developer & CLI Enthusiast
+**Gusti Aditya Muzaky** |Indie Software Developer
 
-🔗 [Portfolio Website](https://gustyx-power.github.io/My-Portofolio/)
+🔗 [Portfolio Website](https://gustyxportofolio.pages.dev/)
 
-- 🔧 Hobbyist Android developer passionate about system internals
-- 🌱 Currently learning advanced Linux & Android architecture
-- 💡 Building mobile apps, automation scripts, and kernel utilities
 - 📍 Based in Cibitung, Indonesia
 - 🏫 Student at Pelita Bangsa University
-- ⚡ Fun fact: I love late-night coding sessions and CLI tools
+- ⚡ Fun fact: I love late-night coding sessions
 
 ### 🛠 Tech Stack & Tools
 
@@ -52,9 +49,8 @@
 
 ### 🎯 Current Focus
 
-- 🌱 Learning **Jetpack Compose** advanced techniques
-- 👯 Open to collaborate on **Android Open Source Projects**
-- 💬 Ask me about **Android Development, Kotlin, Linux**
+- 👯 Open to collaborate on **Open Source Projects**
+- 💬 Ask me about **Android Development, Kotlin, Linux, Windows, Website, PWA, Database**
 - 📫 How to reach me: **[@GustyxPower](https://t.me/GustyxPower)**
 
 ### 📫 Connect With Me
